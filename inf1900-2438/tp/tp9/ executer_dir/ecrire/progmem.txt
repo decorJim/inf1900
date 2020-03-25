@@ -1,0 +1,36 @@
+DBT;
+ATT 10;
+SGO 70;
+ATT 20;
+SAR;
+ATT 20;
+SGO 70;
+ATT 20;
+SAR;
+ATT 20;
+
+
+MAV 255;
+ATT 140;
+MAR;
+ATT 10;
+
+TRG;
+MAV 255;
+ATT 40;
+MAR;
+
+TRD;
+MAV 255;
+ATT 80;
+MAR;
+ATT 10;
+
+MRE 255;
+ATT 40;
+
+MAR;
+ATT 40;
+
+FIN;
+

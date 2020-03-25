@@ -1,0 +1,13 @@
+DBT;
+DBC 01;
+SGO 75;
+ATT 40;
+SAR;
+ATT 40;
+FBC;
+SAR;
+ATT 20;
+DAL 01;
+ATT 100;
+FIN;
+
